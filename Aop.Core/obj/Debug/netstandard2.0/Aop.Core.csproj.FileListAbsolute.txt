@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Aop.Core\bin\Debug\netstandard2.0\Aop.Core.deps.json
+C:\Users\admin\source\repos\Aop.Core\bin\Debug\netstandard2.0\Aop.Core.dll
+C:\Users\admin\source\repos\Aop.Core\bin\Debug\netstandard2.0\Aop.Core.pdb
+C:\Users\admin\source\repos\Aop.Core\obj\Debug\netstandard2.0\Aop.Core.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Aop.Core\obj\Debug\netstandard2.0\Aop.Core.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Aop.Core\obj\Debug\netstandard2.0\Aop.Core.AssemblyInfo.cs
+C:\Users\admin\source\repos\Aop.Core\obj\Debug\netstandard2.0\Aop.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Aop.Core\obj\Debug\netstandard2.0\Aop.Core.dll
+C:\Users\admin\source\repos\Aop.Core\obj\Debug\netstandard2.0\Aop.Core.pdb
